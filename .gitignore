@@ -1,0 +1,14 @@
+.vs/
+MovingShipGame.sln
+MovingShipGame.vcxproj
+MovingShipGame.vcxproj.filters
+MovingShipGame.vcxproj.user
+icon.rc
+obj/
+FreeImage.dll*             
+MovingShipGame_debug.lib  
+fmod.dll*
+MovingShipGame_debug.exe* 
+MovingShipGame_debug.pdb  
+fmodL.dll*
+MovingShipGame_debug.exp
